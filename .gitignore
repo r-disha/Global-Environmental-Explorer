@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Secrets / Environment variables
+.env
+secret.py
+
+# Streamlit specific
+.streamlit/
